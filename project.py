@@ -14,4 +14,4 @@ while True:
     else:
         print("your number is too big! Guess smaller")
 
-print("----GAME OVER----")
+print("---_GAME OVER_---")
